@@ -60,9 +60,6 @@ gem 'omniauth-twitter'
 
 gem 'jquery-turbolinks'
 
-
-gem 'gon'
-
 group :production do
   gem 'pg'
 end
